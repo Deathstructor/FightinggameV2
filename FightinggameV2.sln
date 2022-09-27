@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightinggameV2", "FightinggameV2\FightinggameV2.csproj", "{0AE9881D-1459-42CF-9C2A-A388C208181C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE9881D-1459-42CF-9C2A-A388C208181C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE9881D-1459-42CF-9C2A-A388C208181C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE9881D-1459-42CF-9C2A-A388C208181C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE9881D-1459-42CF-9C2A-A388C208181C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
