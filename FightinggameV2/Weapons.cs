@@ -4,6 +4,8 @@ public class Weapons
 {
     public string name = "Sword";
     public int damage = 10;
-    public double accuracy = 0.8;
-    public double critChance = 0.2;
+    public int accuracy = 7;
+    public int critChance = 1;
+    public int minCrit = 1;
+    public int maxCrit = 10;
 }
